@@ -54,7 +54,7 @@ This project analyzes over 1,000 expert-rated dark chocolate bars from the Flavo
 * Which companies and regions produce the highest-quality chocolate.
 * What bean types and cocoa percentages lead to higher consumer ratings.
 * How chocolate quality trends have evolved over time.
-* What strategies can be implemented to improve chocolate ratings and move products from ## Satisfactory” to ## Premium/Elite.
+* What strategies can be implemented to improve chocolate ratings and move products from Satisfactory to Premium/Elite.
 
 #  ANALYTICAL THOUGHTS AND FRAMES
 
