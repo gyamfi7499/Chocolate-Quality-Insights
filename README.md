@@ -30,11 +30,11 @@ This project analyzes over 1,000 expert-rated dark chocolate bars from the Flavo
 
 #  DATA PROCESSING
 
-* Cleaned raw dataset (removed missing or inconsistent values).
+* Cleaned raw dataset (removed missing and inconsistent values).
 * Transformed variables (Extracted review year, converted cocoa % to numeric)
-* Created calculated fields (Rating categories -Elite, Premium, Satisfactory)
+* Created calculated fields (Rating categories -Elite, Premium and Satisfactory)
 * Modeled relationships between chocolate makers, company locations, bean types, and ratings.
-* Built interactive dashboards for trend exploration, distribution analysis, and performance benchmarking.
+* Built interactive dashboards for trends exploration, distribution analysis, and performance benchmarking.
 
 #  SKILLS DEMONSTRATED
 
