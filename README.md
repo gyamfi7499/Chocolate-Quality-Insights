@@ -6,6 +6,8 @@ Power BI project analyzing global chocolate ratings, makers, and cocoa trends
 
 [TOOLS_AND_TECHNOLOGIES](#TOOLS-AND-TECHNOLOGIES)
 
+[DATA-SOURCE](#DATA-SOURCE)
+
 [DATA PROCESSING](#DATA-PROCESSING)
 
 [SKILLS DEMOSTRATED](#SKILLS-DEMONSTRATED)
@@ -27,6 +29,9 @@ This project analyzes over 1,000 expert-rated dark chocolate bars from the Flavo
 * Microsoft Excel (Power Query -Data cleaning, transformation, preprocessing)
 * Data Analysis Expressions (Calculated measures, KPIs, filters)
 * Data Modeling (Relationships between chocolate makers, bean origins, ratings, cocoa %)
+
+ #  DATA SOURCE
+ Blossom Academy
 
 #  DATA PROCESSING
 
