@@ -47,8 +47,15 @@ This project analyzes over 1,000 expert-rated dark chocolate bars from the Flavo
 * Data Cleaning And Transformation
 
 * Data Modeling And Dax Calculation
+  <img width="656" height="369" alt="image" src="https://github.com/user-attachments/assets/0c15dcf4-bd88-48ae-b9ea-87ca0b907b6b" />
+
 
 * KPI And Visualization Design
+  <img width="616" height="354" alt="image" src="https://github.com/user-attachments/assets/fc5c2a81-3a76-4e5c-b79f-e8198e123e36" />
+
+  <img width="614" height="352" alt="image" src="https://github.com/user-attachments/assets/55643808-d4c4-4e5a-81f0-b6fa5bd74ba9" />
+
+
 
 * Transforming Analytics into Actionable Insights
 
